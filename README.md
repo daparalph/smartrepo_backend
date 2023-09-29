@@ -80,7 +80,7 @@ A project based on intelligent transport systems leveraging nodejs for backend a
 - [API on Heroku Cloud Server](https://smartransport-74011161d29b.herokuapp.com/)
 
 **Front-End**
-[Vercel link](https://smart-transport-frontend.vercel.app/)
+- [Vercel link](https://smart-transport-frontend.vercel.app/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,4 +189,3 @@ If you like this project you can fork it.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->

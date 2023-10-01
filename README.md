@@ -77,7 +77,7 @@ A project based on intelligent transport systems leveraging nodejs for backend a
 <!-- LIVE DEMO -->
 ### 🚀 Live Demo <a name="live-demo"></a>
 **Backend**
-- [API on Heroku Cloud Server](https://smartransport-74011161d29b.herokuapp.com/)
+- [API on Heroku Cloud Server](https://smartrepo-c2d998e29865.herokuapp.com/directives)
 
 **Front-End**
 - [Vercel link](https://smart-transport-frontend.vercel.app/)
@@ -132,7 +132,7 @@ npm run test
 ```
 ### Deployment
 
-Here is the [Live link](https://smartransport-74011161d29b.herokuapp.com/)
+Here is the [Live link](https://smartrepo-c2d998e29865.herokuapp.com/directives)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

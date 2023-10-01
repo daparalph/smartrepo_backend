@@ -80,7 +80,7 @@ A project based on intelligent transport systems leveraging nodejs for backend a
 - [API on Heroku Cloud Server](https://smartrepo-c2d998e29865.herokuapp.com/directives)
 
 **Front-End**
-- [Vercel link](https://smart-transport-frontend.vercel.app/)
+- [Heroku link](https://smartreposystem-d365984278cb.herokuapp.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

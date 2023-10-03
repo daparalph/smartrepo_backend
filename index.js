@@ -27,7 +27,7 @@ app.use(cors({
 
 
 // Connect to database
-mongoose.connect('mongodb+srv://akingbileniyi:Dapa2002@smartrepo.lm0g5kr.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://akingbileniyi:dapalo@smartrepo.lm0g5kr.mongodb.net/?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

@@ -20,7 +20,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // To secure the server from unauthorized access
 app.use(cors({
-  origin: '*',
+  origin: 'https://smartreposystem-d365984278cb.herokuapp.com',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));

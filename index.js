@@ -20,14 +20,14 @@ app.use(express.urlencoded({ extended: true }));
 
 // To secure the server from unauthorized access
 app.use(cors({
-  origin: 'https://smart-transport-frontend.vercel.app',
+  origin: '*',
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));
 
 
 // Connect to database
-mongoose.connect('mongodb+srv://admin:AkinPopular@smartonline.a8qjsv8.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://akingbileniyi:Dapa2002@smartrepo.lm0g5kr.mongodb.net/?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

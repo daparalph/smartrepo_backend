@@ -77,10 +77,10 @@ A project based on intelligent transport systems leveraging nodejs for backend a
 <!-- LIVE DEMO -->
 ### 🚀 Live Demo <a name="live-demo"></a>
 **Backend**
-- [API on Heroku Cloud Server](https://smartrepo-c2d998e29865.herokuapp.com/directives)
+- [API on Heroku Cloud Server](https://smartrepo-backend-6f9ce119e80d.herokuapp.com/directives)
 
 **Front-End**
-- [Heroku link](https://smartreposystem-d365984278cb.herokuapp.com/)
+- [Heroku link](https://smartrepo-frontend-2d052ed8e098.herokuapp.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
